@@ -1,0 +1,23 @@
+
+.pl-c-brand {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 4em;
+}
+
+.pl-c-brand__logo {
+  width: 100px;
+}
+
+.pl-c-brand__logo img {
+  max-width: 100%;
+}
+
+.pl-c-brand__title {
+  font-family: europa;
+  font-size: 3em;
+  color: white;
+  text-shadow: 3px 3px 0px hsla(353, 75%, 22%, 0.1);
+}
