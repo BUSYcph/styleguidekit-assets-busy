@@ -4,7 +4,7 @@
   "description": "BUSY edition of front-end assets for Pattern Lab.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/BUSYcph/styleguidekit-assets-busy"
+    "url": "git://github.com/BUSYcph/styleguidekit-assets-busy.git"
   },
   "author": "Brian Frisch",
   "license": "MIT",
