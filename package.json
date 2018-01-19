@@ -1,17 +1,17 @@
 {
   "name": "@busy/styleguidekit-assets-busy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "BUSY edition of front-end assets for Pattern Lab.",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/teltploek/styleguidekit-assets-busy"
   },
   "author": "Brian Frisch",
   "license": "MIT",
   "bugs": {
-    "url": ""
+    "url": "https://github.com/teltploek/styleguidekit-assets-busy/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com/teltploek/styleguidekit-assets-busy",
   "devDependencies": {
     "del": "^1.1.1",
     "gulp": "^3.8.6",
