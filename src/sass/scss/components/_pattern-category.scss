@@ -38,7 +38,7 @@
 .pl-c-category__title-link {
     color: $pl-color-black;
     transition: color $pl-animate-quick ease-out;
-    font-family: $pl-font;
+    font-family: inherit;
 }
 
 /**

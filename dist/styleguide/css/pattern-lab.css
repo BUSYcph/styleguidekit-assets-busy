@@ -69,7 +69,8 @@
   margin: 0;
   padding: 0;
   background: #ddd;
-  -webkit-text-size-adjust: 100%; }
+  -webkit-text-size-adjust: 100%;
+  font-family: europa, sans-serif; }
 
 /*------------------------------------*    #COMPONENTS
 \*------------------------------------*/
@@ -888,7 +889,7 @@
  * Pattern Title
  */
 .pl-c-pattern__title {
-  font-family: europa, sans-serif !important;
+  font-family: inherit;
   font-size: 0.85rem !important;
   line-height: 1 !important;
   font-weight: normal !important;
@@ -1011,7 +1012,7 @@
   color: #000;
   -webkit-transition: color 0.1s ease-out;
           transition: color 0.1s ease-out;
-  font-family: europa, sans-serif; }
+  font-family: inherit; }
 
 /**
 * Pattern Category Description
